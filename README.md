@@ -26,17 +26,7 @@ A responsive personal portfolio website showcasing my skills, projects, and expe
 
 ---
 
-## 🔹 Projects
 
-Here are some of the highlighted projects in my portfolio:
-
-1. **Project Name 1** – Short description  
-2. **Project Name 2** – Short description  
-3. **Project Name 3** – Short description  
-
-*(Add GitHub links for each project if available)*
-
----
 
 ## 🔹 About Me
 
@@ -51,8 +41,8 @@ I enjoy building clean, responsive, and functional web applications, solving cha
 ## 🔹 Contact Me
 
 - Email: `your-email@example.com`  
-- LinkedIn: [Vinay Lengare](https://www.linkedin.com/in/vinay-lengare)  
-- GitHub: [Vinay Lengare](https://github.com/yourusername)
+- LinkedIn: [Vinay Lengare](www.linkedin.com/in/vinayak-lengare-331b33369)  
+- GitHub: [Vinay Lengare]([https://github.com/yourusername](https://github.com/VinayakLengare))
 
 ---
 
