@@ -40,11 +40,9 @@ I enjoy building clean, responsive, and functional web applications, solving cha
 
 ## 🔹 Contact Me
 
-- Email: `your-email@example.com`  
-- LinkedIn: [Vinay Lengare](www.linkedin.com/in/vinayak-lengare-331b33369)  
-- GitHub: [Vinay Lengare]([https://github.com/yourusername](https://github.com/VinayakLengare))
-
----
+- Email: `vinayaklengare23@gmail.com`
+- LinkedIn: [Vinay Lengare](https://www.linkedin.com/in/vinayak-lengare-331b33369/)
+- GitHub: [Vinay Lengare](https://github.com/VinayakLengare)
 
 ## 🔹 How to Use
 
