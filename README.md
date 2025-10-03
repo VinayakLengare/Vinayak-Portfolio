@@ -22,7 +22,7 @@ A responsive personal portfolio website showcasing my skills, projects, and expe
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Interactivity and dynamic content  
 
-*(Optional: Add Bootstrap, ReactJS, or any other tech if used)*
+
 
 ---
 
